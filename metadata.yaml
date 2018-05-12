@@ -1,0 +1,35 @@
+_repo: The-Hall-and-the-GrangeA-Novel_39595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marshall, Archibald
+    alias: Marshall, Arthur Hammond
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '35191'
+    url: http://www.gutenberg.org/2009/agents/35191
+description: Known as one of the foremost literary realists of his era, British author
+  Archibald Marshall was a master of drawing subtle distinctions and comparisons between
+  the haves and the have-nots in his home country. In The Hall and the Grange, Marshall
+  homes in on the lives of a family ensconced in comfort and luxury on their country
+  estate and the social unrest that is beginning to boil over all around them.
+gutenberg_issued: '2012-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Country life -- England -- Fiction'
+title: 'The Hall and the Grange: A Novel'
+url: http://www.gutenberg.org/ebooks/39595
